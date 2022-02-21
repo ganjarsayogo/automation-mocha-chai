@@ -1,0 +1,6 @@
+make sure that below are already installed:
+1. Nodejs
+  1a. Mocha module
+  1b. Chai module
+
+to run the test.js file, type "npm test" via cmd
